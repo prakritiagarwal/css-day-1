@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+}
+
+
+h2 {
+    color: #a72d2d;
+    font-style: italic;
+}
+
+table {
+    height: 20px;
+}
+
+
+th {
+    color: blue;
+    background-color: yellow;
+}
+
